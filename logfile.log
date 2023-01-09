@@ -1,0 +1,1836 @@
+2022-12-27 22:16:56,712 INFO  [$c {1}] url is opened 
+2022-12-27 22:19:11,902 INFO  [$c {1}] url is opened 
+2022-12-27 22:19:12,100 INFO  [$c {1}] username is accepted 
+2022-12-27 22:19:12,158 INFO  [$c {1}] password is accepted 
+2022-12-27 22:19:12,501 INFO  [$c {1}] login button clicked 
+2022-12-27 22:22:05,572 INFO  [$c {1}] url is opened 
+2022-12-27 22:22:06,904 INFO  [$c {1}] username is accepted 
+2022-12-27 22:22:07,981 INFO  [$c {1}] password is accepted 
+2022-12-27 22:22:09,584 INFO  [$c {1}] login button clicked 
+2022-12-27 22:22:48,338 INFO  [$c {1}] url is opened 
+2022-12-27 22:22:49,733 INFO  [$c {1}] username is accepted 
+2022-12-27 22:22:50,976 INFO  [$c {1}] password is accepted 
+2022-12-27 22:22:52,701 INFO  [$c {1}] login button clicked 
+2022-12-27 22:22:52,724 INFO  [$c {1}] titile is matched 
+2022-12-27 22:23:18,140 INFO  [$c {1}] url is opened 
+2022-12-27 22:23:19,491 INFO  [$c {1}] username is accepted 
+2022-12-27 22:23:20,652 INFO  [$c {1}] password is accepted 
+2022-12-27 22:23:22,544 INFO  [$c {1}] login button clicked 
+2022-12-27 22:23:22,568 INFO  [$c {1}] titile is matched 
+2022-12-27 22:24:00,809 INFO  [$c {1}] url is opened 
+2022-12-27 22:24:02,222 INFO  [$c {1}] username is accepted 
+2022-12-27 22:24:03,547 INFO  [$c {1}] password is accepted 
+2022-12-27 22:24:05,301 INFO  [$c {1}] login button clicked 
+2022-12-27 22:39:24,249 INFO  [$c {1}] url is opened 
+2022-12-27 22:39:25,440 INFO  [$c {1}] username is accepted 
+2022-12-27 22:39:26,562 INFO  [$c {1}] password is accepted 
+2022-12-27 22:39:28,240 INFO  [$c {1}] login button clicked 
+2022-12-27 22:40:33,643 INFO  [$c {1}] url is opened 
+2022-12-27 22:40:34,849 INFO  [$c {1}] username is accepted 
+2022-12-27 22:40:35,993 INFO  [$c {1}] password is accepted 
+2022-12-27 22:40:37,622 INFO  [$c {1}] login button clicked 
+2022-12-27 22:43:21,444 INFO  [$c {1}] url is opened 
+2022-12-27 22:43:22,645 INFO  [$c {1}] username is accepted 
+2022-12-27 22:43:23,763 INFO  [$c {1}] password is accepted 
+2022-12-27 22:43:25,261 INFO  [$c {1}] login button clicked 
+2022-12-27 22:44:39,865 INFO  [$c {1}] url is opened 
+2022-12-27 22:44:41,256 INFO  [$c {1}] username is accepted 
+2022-12-27 22:44:42,397 INFO  [$c {1}] password is accepted 
+2022-12-27 22:44:43,896 INFO  [$c {1}] login button clicked 
+2022-12-27 22:46:32,017 INFO  [$c {1}] url is opened 
+2022-12-27 22:46:33,409 INFO  [$c {1}] username is accepted 
+2022-12-27 22:46:34,526 INFO  [$c {1}] password is accepted 
+2022-12-27 22:46:35,919 INFO  [$c {1}] login button clicked 
+2022-12-27 22:47:03,123 INFO  [$c {1}] url is opened 
+2022-12-27 22:47:04,350 INFO  [$c {1}] username is accepted 
+2022-12-27 22:47:05,500 INFO  [$c {1}] password is accepted 
+2022-12-27 22:47:07,097 INFO  [$c {1}] login button clicked 
+2022-12-27 22:47:07,120 INFO  [$c {1}] titile is matched 
+2022-12-27 22:48:13,368 INFO  [$c {1}] url is opened 
+2022-12-27 22:48:14,550 INFO  [$c {1}] username is accepted 
+2022-12-27 22:48:15,664 INFO  [$c {1}] password is accepted 
+2022-12-27 22:48:17,517 INFO  [$c {1}] login button clicked 
+2022-12-27 22:48:17,535 INFO  [$c {1}] titile is matched 
+2022-12-27 22:48:45,683 INFO  [$c {1}] url is opened 
+2022-12-27 22:48:46,978 INFO  [$c {1}] username is accepted 
+2022-12-27 22:48:48,129 INFO  [$c {1}] password is accepted 
+2022-12-27 22:48:49,847 INFO  [$c {1}] login button clicked 
+2022-12-27 22:49:29,859 INFO  [$c {1}] url is opened 
+2022-12-27 22:49:31,197 INFO  [$c {1}] username is accepted 
+2022-12-27 22:49:32,315 INFO  [$c {1}] password is accepted 
+2022-12-27 22:49:34,586 INFO  [$c {1}] login button clicked 
+2022-12-27 22:51:52,055 INFO  [$c {1}] url is opened 
+2022-12-27 22:51:53,390 INFO  [$c {1}] username is accepted 
+2022-12-27 22:51:54,574 INFO  [$c {1}] password is accepted 
+2022-12-27 22:51:55,958 INFO  [$c {1}] login button clicked 
+2022-12-27 23:03:15,273 INFO  [$c {1}] url is opened 
+2022-12-27 23:03:16,473 INFO  [$c {1}] username is accepted 
+2022-12-27 23:03:17,610 INFO  [$c {1}] password is accepted 
+2022-12-27 23:03:19,242 INFO  [$c {1}] login button clicked 
+2022-12-27 23:05:45,513 INFO  [$c {1}] url is opened 
+2022-12-27 23:05:46,828 INFO  [$c {1}] username is accepted 
+2022-12-27 23:05:47,952 INFO  [$c {1}] password is accepted 
+2022-12-27 23:05:49,459 INFO  [$c {1}] login button clicked 
+2022-12-27 23:05:49,784 INFO  [$c {1}] xyz 
+2022-12-27 23:08:11,259 INFO  [$c {1}] url is opened 
+2022-12-27 23:08:12,510 INFO  [$c {1}] username is accepted 
+2022-12-27 23:08:13,627 INFO  [$c {1}] password is accepted 
+2022-12-27 23:08:14,997 INFO  [$c {1}] login button clicked 
+2022-12-27 23:11:34,170 INFO  [$c {1}] url is opened 
+2022-12-27 23:11:35,360 INFO  [$c {1}] username is accepted 
+2022-12-27 23:11:36,504 INFO  [$c {1}] password is accepted 
+2022-12-27 23:11:38,450 INFO  [$c {1}] login button clicked 
+2022-12-27 23:12:12,310 INFO  [$c {1}] url is opened 
+2022-12-27 23:12:13,476 INFO  [$c {1}] username is accepted 
+2022-12-27 23:12:14,590 INFO  [$c {1}] password is accepted 
+2022-12-27 23:12:16,402 INFO  [$c {1}] login button clicked 
+2022-12-27 23:12:16,419 INFO  [$c {1}] titile is matched 
+2022-12-27 23:13:08,855 INFO  [$c {1}] url is opened 
+2022-12-27 23:13:10,064 INFO  [$c {1}] username is accepted 
+2022-12-27 23:13:11,208 INFO  [$c {1}] password is accepted 
+2022-12-27 23:13:12,573 INFO  [$c {1}] login button clicked 
+2022-12-27 23:13:12,592 INFO  [$c {1}] title does not matched 
+2022-12-27 23:14:12,565 INFO  [$c {1}] url is opened 
+2022-12-27 23:14:13,920 INFO  [$c {1}] username is accepted 
+2022-12-27 23:14:15,106 INFO  [$c {1}] password is accepted 
+2022-12-27 23:14:16,862 INFO  [$c {1}] login button clicked 
+2022-12-27 23:14:16,879 INFO  [$c {1}] title does not matched 
+2022-12-27 23:16:04,295 INFO  [$c {1}] url is opened 
+2022-12-27 23:16:05,731 INFO  [$c {1}] username is accepted 
+2022-12-27 23:16:07,092 INFO  [$c {1}] password is accepted 
+2022-12-27 23:16:08,807 INFO  [$c {1}] login button clicked 
+2022-12-27 23:16:08,838 INFO  [$c {1}] title does not matched 
+2022-12-27 23:16:09,164 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:18:46,110 INFO  [$c {1}] url is opened 
+2022-12-27 23:18:47,296 INFO  [$c {1}] username is accepted 
+2022-12-27 23:18:48,424 INFO  [$c {1}] password is accepted 
+2022-12-27 23:18:49,975 INFO  [$c {1}] login button clicked 
+2022-12-27 23:18:49,993 INFO  [$c {1}] titile is matched 
+2022-12-27 23:20:17,971 INFO  [$c {1}] url is opened 
+2022-12-27 23:20:19,308 INFO  [$c {1}] username is accepted 
+2022-12-27 23:20:20,414 INFO  [$c {1}] password is accepted 
+2022-12-27 23:20:21,771 INFO  [$c {1}] login button clicked 
+2022-12-27 23:20:21,792 INFO  [$c {1}] title does not matched 
+2022-12-27 23:20:22,114 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:37:15,738 INFO  [$c {1}] url is opened 
+2022-12-27 23:37:16,950 INFO  [$c {1}] username is accepted 
+2022-12-27 23:37:18,083 INFO  [$c {1}] password is accepted 
+2022-12-27 23:37:19,691 INFO  [$c {1}] login button clicked 
+2022-12-27 23:37:19,723 INFO  [$c {1}] title does not matched 
+2022-12-27 23:37:20,045 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:39:36,180 INFO  [$c {1}] url is opened 
+2022-12-27 23:39:37,535 INFO  [$c {1}] username is accepted 
+2022-12-27 23:39:38,809 INFO  [$c {1}] password is accepted 
+2022-12-27 23:39:40,352 INFO  [$c {1}] login button clicked 
+2022-12-27 23:39:40,382 INFO  [$c {1}] title does not matched 
+2022-12-27 23:39:40,678 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:39:46,738 INFO  [$c {1}] url is opened 
+2022-12-27 23:39:47,893 INFO  [$c {1}] username is accepted 
+2022-12-27 23:39:49,020 INFO  [$c {1}] password is accepted 
+2022-12-27 23:39:50,406 INFO  [$c {1}] login button clicked 
+2022-12-27 23:39:50,428 INFO  [$c {1}] title does not matched 
+2022-12-27 23:39:50,711 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:39:50,769 INFO  [$c {1}] url is opened 
+2022-12-27 23:39:51,890 INFO  [$c {1}] username is accepted 
+2022-12-27 23:39:52,997 INFO  [$c {1}] password is accepted 
+2022-12-27 23:39:54,372 INFO  [$c {1}] login button clicked 
+2022-12-27 23:39:54,385 INFO  [$c {1}] title does not matched 
+2022-12-27 23:39:54,708 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:39:54,763 INFO  [$c {1}] url is opened 
+2022-12-27 23:39:56,087 INFO  [$c {1}] username is accepted 
+2022-12-27 23:39:57,403 INFO  [$c {1}] password is accepted 
+2022-12-27 23:39:59,149 INFO  [$c {1}] login button clicked 
+2022-12-27 23:39:59,395 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:00,425 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:01,463 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:02,480 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:03,525 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:04,575 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:05,607 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:06,673 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:07,726 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:54,468 INFO  [$c {1}] url is opened 
+2022-12-27 23:40:55,962 INFO  [$c {1}] username is accepted 
+2022-12-27 23:40:57,172 INFO  [$c {1}] password is accepted 
+2022-12-27 23:40:58,548 INFO  [$c {1}] login button clicked 
+2022-12-27 23:40:58,570 INFO  [$c {1}] title does not matched 
+2022-12-27 23:40:58,880 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:04,207 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:05,454 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:06,641 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:08,082 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:08,100 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:08,369 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:08,425 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:09,644 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:10,817 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:12,236 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:12,261 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:12,568 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:12,636 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:13,884 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:15,299 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:17,086 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:17,111 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:17,469 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:17,842 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:19,113 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:20,491 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:22,172 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:22,194 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:22,580 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:22,629 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:23,857 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:25,326 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:27,091 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:27,099 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:27,729 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:27,830 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:29,498 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:31,085 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:32,706 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:32,723 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:33,075 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:33,138 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:34,574 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:35,972 INFO  [$c {1}] password is accepted 
+2022-12-27 23:41:37,764 INFO  [$c {1}] login button clicked 
+2022-12-27 23:41:37,779 INFO  [$c {1}] title does not matched 
+2022-12-27 23:41:38,329 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:41:38,389 INFO  [$c {1}] url is opened 
+2022-12-27 23:41:40,027 INFO  [$c {1}] username is accepted 
+2022-12-27 23:41:41,628 INFO  [$c {1}] password is accepted 
+2022-12-27 23:42:12,213 INFO  [$c {1}] login button clicked 
+2022-12-27 23:42:12,442 INFO  [$c {1}] url is opened 
+2022-12-27 23:42:13,473 INFO  [$c {1}] url is opened 
+2022-12-27 23:42:14,540 INFO  [$c {1}] url is opened 
+2022-12-27 23:42:15,576 INFO  [$c {1}] url is opened 
+2022-12-27 23:42:50,332 INFO  [$c {1}] url is opened 
+2022-12-27 23:42:51,760 INFO  [$c {1}] username is accepted 
+2022-12-27 23:42:52,944 INFO  [$c {1}] password is accepted 
+2022-12-27 23:42:54,495 INFO  [$c {1}] login button clicked 
+2022-12-27 23:42:54,514 INFO  [$c {1}] titile is matched 
+2022-12-27 23:43:00,729 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:01,798 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:02,895 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:03,962 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:05,006 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:06,049 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:07,087 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:08,149 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:09,195 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:10,239 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:11,284 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:12,337 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:28,099 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:29,598 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:30,765 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:32,494 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:32,512 INFO  [$c {1}] titile is matched 
+2022-12-27 23:43:40,149 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:40,595 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:40,863 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:41,412 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:41,431 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:41,748 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:41,843 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:42,093 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:42,286 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:42,709 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:42,723 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:43,040 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:43,096 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:43,311 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:43,509 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:43,883 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:43,896 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:44,201 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:44,241 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:44,437 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:44,615 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:45,055 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:45,074 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:45,368 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:45,405 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:45,569 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:45,762 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:46,362 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:46,381 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:46,626 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:46,672 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:46,881 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:47,063 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:47,443 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:47,457 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:47,756 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:47,790 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:47,989 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:48,190 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:48,594 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:48,604 INFO  [$c {1}] title does not matched 
+2022-12-27 23:43:48,878 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:43:48,915 INFO  [$c {1}] url is opened 
+2022-12-27 23:43:49,117 INFO  [$c {1}] username is accepted 
+2022-12-27 23:43:49,329 INFO  [$c {1}] password is accepted 
+2022-12-27 23:43:49,915 INFO  [$c {1}] login button clicked 
+2022-12-27 23:43:49,931 INFO  [$c {1}] titile is matched 
+2022-12-27 23:43:49,939 INFO  [$c {1}] url is opened 
+2022-12-27 23:44:10,071 INFO  [$c {1}] url is opened 
+2022-12-27 23:44:30,117 INFO  [$c {1}] url is opened 
+2022-12-27 23:44:50,153 INFO  [$c {1}] url is opened 
+2022-12-27 23:45:58,931 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:00,463 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:01,631 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:03,287 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:03,303 INFO  [$c {1}] titile is matched 
+2022-12-27 23:46:08,296 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:08,559 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:08,744 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:09,165 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:09,188 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:09,464 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:09,536 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:09,730 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:09,974 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:10,395 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:10,406 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:10,774 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:10,827 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:11,014 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:11,195 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:11,676 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:11,695 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:11,950 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:11,988 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:12,187 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:12,359 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:12,725 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:12,750 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:13,089 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:13,131 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:13,307 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:13,503 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:13,978 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:14,000 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:14,233 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:14,270 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:14,461 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:14,645 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:15,456 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:15,474 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:15,751 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:15,789 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:15,970 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:16,193 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:16,619 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:16,634 INFO  [$c {1}] title does not matched 
+2022-12-27 23:46:16,886 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:46:16,926 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:17,120 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:17,320 INFO  [$c {1}] password is accepted 
+2022-12-27 23:46:17,815 INFO  [$c {1}] login button clicked 
+2022-12-27 23:46:17,828 INFO  [$c {1}] titile is matched 
+2022-12-27 23:46:18,038 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:18,158 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:18,170 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:18,179 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:56,969 INFO  [$c {1}] url is opened 
+2022-12-27 23:46:58,454 INFO  [$c {1}] username is accepted 
+2022-12-27 23:46:59,866 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:01,549 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:01,570 INFO  [$c {1}] titile is matched 
+2022-12-27 23:47:06,225 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:06,486 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:06,715 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:07,215 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:07,234 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:07,520 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:07,604 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:07,795 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:07,972 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:08,466 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:08,483 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:08,844 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:08,899 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:09,122 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:09,309 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:09,759 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:09,775 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:10,032 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:10,069 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:10,245 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:10,427 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:10,924 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:10,945 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:11,193 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:11,230 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:11,399 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:11,571 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:12,448 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:12,464 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:12,752 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:12,798 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:12,969 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:13,130 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:13,610 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:13,629 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:13,880 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:13,917 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:14,100 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:14,343 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:14,846 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:14,860 INFO  [$c {1}] title does not matched 
+2022-12-27 23:47:15,125 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:47:15,168 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:15,360 INFO  [$c {1}] username is accepted 
+2022-12-27 23:47:15,560 INFO  [$c {1}] password is accepted 
+2022-12-27 23:47:16,062 INFO  [$c {1}] login button clicked 
+2022-12-27 23:47:16,078 INFO  [$c {1}] titile is matched 
+2022-12-27 23:47:16,093 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:22,579 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:22,642 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:22,661 INFO  [$c {1}] url is opened 
+2022-12-27 23:47:59,701 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:01,205 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:02,643 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:04,375 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:04,402 INFO  [$c {1}] titile is matched 
+2022-12-27 23:48:09,469 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:09,756 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:10,000 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:10,585 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:10,608 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:10,970 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:11,065 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:11,318 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:11,501 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:11,927 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:11,943 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:12,258 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:12,310 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:12,482 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:12,651 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:13,410 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:13,417 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:13,783 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:13,843 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:14,054 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:14,243 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:14,657 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:14,676 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:14,994 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:15,031 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:15,203 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:15,411 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:15,914 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:15,930 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:16,196 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:16,241 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:16,436 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:16,598 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:17,092 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:17,111 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:17,385 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:17,423 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:17,597 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:17,814 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:18,249 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:18,266 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:18,540 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:18,580 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:18,755 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:18,953 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:19,388 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:19,404 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:19,662 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:19,697 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:19,858 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:20,056 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:20,457 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:20,466 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:20,745 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:20,782 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:20,965 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:21,182 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:21,851 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:21,875 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:22,138 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:22,191 INFO  [$c {1}] url is opened 
+2022-12-27 23:48:22,453 INFO  [$c {1}] username is accepted 
+2022-12-27 23:48:22,718 INFO  [$c {1}] password is accepted 
+2022-12-27 23:48:23,292 INFO  [$c {1}] login button clicked 
+2022-12-27 23:48:23,307 INFO  [$c {1}] title does not matched 
+2022-12-27 23:48:23,605 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:48:23,668 INFO  [$c {1}] url is opened 
+2022-12-27 23:50:49,849 INFO  [$c {1}] url is opened 
+2022-12-27 23:50:51,348 INFO  [$c {1}] username is accepted 
+2022-12-27 23:50:52,530 INFO  [$c {1}] password is accepted 
+2022-12-27 23:50:54,137 INFO  [$c {1}] login button clicked 
+2022-12-27 23:50:54,157 INFO  [$c {1}] titile is matched 
+2022-12-27 23:51:00,985 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:01,375 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:01,607 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:02,204 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:02,230 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:02,583 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:02,716 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:02,916 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:03,090 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:03,488 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:03,503 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:03,800 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:03,865 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:04,060 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:04,238 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:04,708 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:04,729 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:04,970 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:05,012 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:05,183 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:05,350 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:05,823 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:05,850 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:06,130 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:06,167 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:06,328 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:06,504 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:07,435 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:07,449 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:07,730 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:07,775 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:07,954 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:08,129 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:08,571 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:08,585 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:08,823 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:08,878 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:09,057 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:09,273 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:09,727 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:09,747 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:10,065 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:10,103 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:10,272 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:10,455 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:10,881 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:10,899 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:11,185 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:11,218 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:11,392 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:11,590 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:12,073 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:12,086 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:12,369 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:12,403 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:12,600 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:12,834 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:13,270 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:13,298 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:13,633 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:13,698 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:13,981 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:14,283 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:14,891 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:14,942 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:15,308 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:15,364 INFO  [$c {1}] url is opened 
+2022-12-27 23:51:15,590 INFO  [$c {1}] username is accepted 
+2022-12-27 23:51:15,839 INFO  [$c {1}] password is accepted 
+2022-12-27 23:51:16,366 INFO  [$c {1}] login button clicked 
+2022-12-27 23:51:16,399 INFO  [$c {1}] title does not matched 
+2022-12-27 23:51:17,037 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:51:17,128 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:36,837 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:38,457 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:39,700 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:41,476 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:41,501 INFO  [$c {1}] titile is matched 
+2022-12-27 23:56:48,410 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:48,966 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:49,373 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:49,850 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:49,866 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:50,242 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:50,340 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:50,576 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:50,830 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:51,252 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:51,301 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:51,639 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:51,743 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:52,015 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:52,266 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:52,654 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:52,671 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:53,117 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:53,165 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:53,363 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:53,556 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:53,981 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:53,999 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:54,272 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:54,313 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:54,508 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:54,702 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:55,129 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:55,149 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:55,461 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:55,510 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:55,712 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:55,927 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:56,338 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:56,356 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:56,672 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:56,712 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:56,921 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:57,184 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:57,616 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:57,627 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:57,971 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:58,022 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:58,298 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:58,548 INFO  [$c {1}] password is accepted 
+2022-12-27 23:56:58,972 INFO  [$c {1}] login button clicked 
+2022-12-27 23:56:58,985 INFO  [$c {1}] title does not matched 
+2022-12-27 23:56:59,276 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:56:59,318 INFO  [$c {1}] url is opened 
+2022-12-27 23:56:59,520 INFO  [$c {1}] username is accepted 
+2022-12-27 23:56:59,746 INFO  [$c {1}] password is accepted 
+2022-12-27 23:57:00,265 INFO  [$c {1}] login button clicked 
+2022-12-27 23:57:00,295 INFO  [$c {1}] title does not matched 
+2022-12-27 23:57:00,632 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:57:00,718 INFO  [$c {1}] url is opened 
+2022-12-27 23:57:01,128 INFO  [$c {1}] username is accepted 
+2022-12-27 23:57:01,533 INFO  [$c {1}] password is accepted 
+2022-12-27 23:57:02,204 INFO  [$c {1}] login button clicked 
+2022-12-27 23:57:02,260 INFO  [$c {1}] title does not matched 
+2022-12-27 23:57:02,640 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:57:02,723 INFO  [$c {1}] url is opened 
+2022-12-27 23:57:03,035 INFO  [$c {1}] username is accepted 
+2022-12-27 23:57:03,275 INFO  [$c {1}] password is accepted 
+2022-12-27 23:57:03,781 INFO  [$c {1}] login button clicked 
+2022-12-27 23:57:03,792 INFO  [$c {1}] title does not matched 
+2022-12-27 23:57:04,066 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:57:04,111 INFO  [$c {1}] url is opened 
+2022-12-27 23:57:04,368 INFO  [$c {1}] username is accepted 
+2022-12-27 23:57:04,664 INFO  [$c {1}] password is accepted 
+2022-12-27 23:57:05,532 INFO  [$c {1}] login button clicked 
+2022-12-27 23:57:05,545 INFO  [$c {1}] title does not matched 
+2022-12-27 23:57:05,982 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:57:06,075 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:09,321 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:10,971 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:12,221 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:13,848 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:13,867 INFO  [$c {1}] titile is matched 
+2022-12-27 23:58:20,752 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:21,217 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:21,605 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:22,184 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:22,374 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:22,732 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:22,859 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:23,270 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:23,500 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:24,042 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:24,062 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:24,408 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:24,476 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:24,727 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:24,946 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:25,453 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:25,470 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:25,781 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:25,840 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:26,073 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:26,275 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:26,703 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:26,716 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:27,047 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:27,091 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:27,298 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:27,508 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:28,032 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:28,056 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:28,394 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:28,444 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:28,662 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:28,867 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:29,327 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:29,345 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:29,584 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:29,624 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:29,869 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:30,195 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:30,626 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:30,642 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:31,045 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:31,094 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:31,355 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:31,579 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:32,016 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:32,029 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:32,355 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:32,397 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:32,590 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:32,854 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:33,328 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:33,348 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:33,803 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:33,874 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:34,191 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:34,445 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:34,954 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:34,964 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:35,251 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:35,312 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:35,559 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:35,789 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:36,326 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:36,393 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:36,851 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:36,936 INFO  [$c {1}] url is opened 
+2022-12-27 23:58:37,236 INFO  [$c {1}] username is accepted 
+2022-12-27 23:58:37,484 INFO  [$c {1}] password is accepted 
+2022-12-27 23:58:38,060 INFO  [$c {1}] login button clicked 
+2022-12-27 23:58:38,074 INFO  [$c {1}] title does not matched 
+2022-12-27 23:58:38,386 INFO  [$c {1}] screenshot is takes 
+2022-12-27 23:58:38,442 INFO  [$c {1}] url is opened 
+2022-12-28 12:23:24,303 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 12:23:24,453 INFO  [$c {1}] desktop button is selected 
+2022-12-28 12:23:24,912 INFO  [$c {1}] pc option is selected 
+2022-12-28 12:23:25,543 INFO  [$c {1}] login button is clicked 
+2022-12-28 12:26:32,609 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 12:26:32,748 INFO  [$c {1}] desktop button is selected 
+2022-12-28 12:26:33,255 INFO  [$c {1}] pc option is selected 
+2022-12-28 12:26:33,805 INFO  [$c {1}] login button is clicked 
+2022-12-28 12:27:25,578 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 12:27:26,800 INFO  [$c {1}] desktop button is selected 
+2022-12-28 12:27:28,273 INFO  [$c {1}] pc option is selected 
+2022-12-28 12:27:29,810 INFO  [$c {1}] login button is clicked 
+2022-12-28 12:28:19,341 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 12:28:21,443 INFO  [$c {1}] desktop button is selected 
+2022-12-28 12:28:24,006 INFO  [$c {1}] pc option is selected 
+2022-12-28 12:28:27,140 INFO  [$c {1}] login button is clicked 
+2022-12-28 13:50:19,341 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 13:50:21,433 INFO  [$c {1}] desktop button is selected 
+2022-12-28 13:50:23,881 INFO  [$c {1}] pc option is selected 
+2022-12-28 13:50:26,427 INFO  [$c {1}] login button is clicked 
+2022-12-28 13:50:29,457 INFO  [$c {1}] desktop option is selected 
+2022-12-28 13:50:29,908 INFO  [$c {1}] mac option is selected 
+2022-12-28 13:50:30,001 INFO  [$c {1}] list view is selected 
+2022-12-28 13:50:30,538 INFO  [$c {1}] sort option is selected 
+2022-12-28 13:50:30,675 INFO  [$c {1}] show option is selected 
+2022-12-28 13:50:30,747 INFO  [$c {1}] added to the card successfully 
+2022-12-28 13:52:30,730 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 13:52:32,810 INFO  [$c {1}] desktop button is selected 
+2022-12-28 13:52:35,311 INFO  [$c {1}] pc option is selected 
+2022-12-28 13:52:37,828 INFO  [$c {1}] login button is clicked 
+2022-12-28 13:52:40,203 INFO  [$c {1}] desktop option is selected 
+2022-12-28 13:52:40,600 INFO  [$c {1}] mac option is selected 
+2022-12-28 13:52:40,712 INFO  [$c {1}] list view is selected 
+2022-12-28 13:52:41,278 INFO  [$c {1}] sort option is selected 
+2022-12-28 13:52:41,439 INFO  [$c {1}] show option is selected 
+2022-12-28 13:52:41,514 INFO  [$c {1}] added to the card successfully 
+2022-12-28 13:56:18,644 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 13:56:20,727 INFO  [$c {1}] desktop button is selected 
+2022-12-28 13:56:23,255 INFO  [$c {1}] pc option is selected 
+2022-12-28 13:56:25,795 INFO  [$c {1}] login button is clicked 
+2022-12-28 13:56:30,226 INFO  [$c {1}] desktop option is selected 
+2022-12-28 13:56:32,841 INFO  [$c {1}] mac option is selected 
+2022-12-28 13:56:34,927 INFO  [$c {1}] list view is selected 
+2022-12-28 13:56:37,404 INFO  [$c {1}] sort option is selected 
+2022-12-28 13:56:39,527 INFO  [$c {1}] show option is selected 
+2022-12-28 13:56:41,595 INFO  [$c {1}] added to the card successfully 
+2022-12-28 13:58:13,924 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 13:58:16,010 INFO  [$c {1}] desktop button is selected 
+2022-12-28 13:58:18,523 INFO  [$c {1}] pc option is selected 
+2022-12-28 13:58:21,100 INFO  [$c {1}] login button is clicked 
+2022-12-28 13:58:25,411 INFO  [$c {1}] desktop option is selected 
+2022-12-28 13:58:27,856 INFO  [$c {1}] mac option is selected 
+2022-12-28 13:58:29,930 INFO  [$c {1}] list view is selected 
+2022-12-28 13:58:32,369 INFO  [$c {1}] sort option is selected 
+2022-12-28 13:58:34,511 INFO  [$c {1}] show option is selected 
+2022-12-28 13:58:36,605 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:13:41,208 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:13:43,291 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:13:45,842 INFO  [$c {1}] pc option is selected 
+2022-12-28 14:13:49,200 INFO  [$c {1}] login button is clicked 
+2022-12-28 14:13:53,587 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:13:56,118 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:13:58,200 INFO  [$c {1}] list view is selected 
+2022-12-28 14:14:00,768 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:14:02,922 INFO  [$c {1}] show option is selected 
+2022-12-28 14:14:05,012 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:14:09,157 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:14:11,749 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:14:13,821 INFO  [$c {1}] list view is selected 
+2022-12-28 14:14:16,234 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:14:18,368 INFO  [$c {1}] show option is selected 
+2022-12-28 14:14:20,440 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:14:24,558 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:14:26,929 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:14:28,999 INFO  [$c {1}] list view is selected 
+2022-12-28 14:14:31,428 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:14:33,563 INFO  [$c {1}] show option is selected 
+2022-12-28 14:14:35,659 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:19:31,440 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:19:33,533 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:20:12,297 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:21:25,223 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:21:27,308 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:21:29,890 INFO  [$c {1}] pc option is selected 
+2022-12-28 14:21:32,509 INFO  [$c {1}] login button is clicked 
+2022-12-28 14:21:37,066 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:21:39,580 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:21:41,655 INFO  [$c {1}] list view is selected 
+2022-12-28 14:21:44,154 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:21:46,280 INFO  [$c {1}] show option is selected 
+2022-12-28 14:21:48,372 INFO  [$c {1}] added to the compare successfully 
+2022-12-28 14:21:52,602 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:21:55,123 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:21:57,200 INFO  [$c {1}] list view is selected 
+2022-12-28 14:21:59,670 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:22:01,782 INFO  [$c {1}] show option is selected 
+2022-12-28 14:22:03,857 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:22:07,993 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:22:10,386 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:22:12,460 INFO  [$c {1}] list view is selected 
+2022-12-28 14:22:14,915 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:22:17,035 INFO  [$c {1}] show option is selected 
+2022-12-28 14:22:19,114 INFO  [$c {1}] added to the favorite successfully 
+2022-12-28 14:27:59,148 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:28:01,230 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:28:03,784 INFO  [$c {1}] pc option is selected 
+2022-12-28 14:28:06,339 INFO  [$c {1}] login button is clicked 
+2022-12-28 14:28:09,344 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:28:10,362 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:28:10,960 INFO  [$c {1}] list view is selected 
+2022-12-28 14:28:13,451 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:28:14,064 INFO  [$c {1}] show option is selected 
+2022-12-28 14:28:14,633 INFO  [$c {1}] added to the compare successfully 
+2022-12-28 14:28:15,749 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:28:16,591 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:28:17,152 INFO  [$c {1}] list view is selected 
+2022-12-28 14:28:18,096 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:28:18,716 INFO  [$c {1}] show option is selected 
+2022-12-28 14:28:19,296 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:28:21,938 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:28:22,841 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:28:23,455 INFO  [$c {1}] list view is selected 
+2022-12-28 14:28:25,918 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:28:26,535 INFO  [$c {1}] show option is selected 
+2022-12-28 14:28:27,125 INFO  [$c {1}] added to the favorite successfully 
+2022-12-28 14:34:59,753 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:35:01,858 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:35:04,457 INFO  [$c {1}] pc option is selected 
+2022-12-28 14:35:07,168 INFO  [$c {1}] login button is clicked 
+2022-12-28 14:35:10,207 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:35:11,257 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:35:11,852 INFO  [$c {1}] list view is selected 
+2022-12-28 14:35:12,858 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:35:13,499 INFO  [$c {1}] show option is selected 
+2022-12-28 14:35:14,070 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:35:16,700 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:35:17,552 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:35:18,119 INFO  [$c {1}] list view is selected 
+2022-12-28 14:35:20,604 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:35:21,220 INFO  [$c {1}] show option is selected 
+2022-12-28 14:35:21,786 INFO  [$c {1}] added to the favorite successfully 
+2022-12-28 14:35:22,909 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:35:23,775 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:35:24,343 INFO  [$c {1}] list view is selected 
+2022-12-28 14:35:26,867 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:35:27,523 INFO  [$c {1}] show option is selected 
+2022-12-28 14:35:28,106 INFO  [$c {1}] added to the compare successfully 2022-12-28 14:44:41,782 INFO  [$c {1}] Url for pc is opened 
+2022-12-28 14:44:43,859 INFO  [$c {1}] desktop button is selected 
+2022-12-28 14:44:46,442 INFO  [$c {1}] pc option is selected 
+2022-12-28 14:44:49,061 INFO  [$c {1}] login button is clicked 
+2022-12-28 14:44:52,010 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:44:52,947 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:44:53,559 INFO  [$c {1}] list view is selected 
+2022-12-28 14:44:54,555 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:44:55,192 INFO  [$c {1}] show option is selected 
+2022-12-28 14:44:55,776 INFO  [$c {1}] added to the card successfully 
+2022-12-28 14:44:58,425 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:44:59,256 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:44:59,827 INFO  [$c {1}] list view is selected 
+2022-12-28 14:45:02,339 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:45:02,962 INFO  [$c {1}] show option is selected 
+2022-12-28 14:45:03,561 INFO  [$c {1}] added to the favorite successfully 
+2022-12-28 14:45:04,685 INFO  [$c {1}] desktop option is selected 
+2022-12-28 14:45:05,627 INFO  [$c {1}] mac option is selected 
+2022-12-28 14:45:06,202 INFO  [$c {1}] list view is selected 
+2022-12-28 14:45:08,777 INFO  [$c {1}] sort option is selected 
+2022-12-28 14:45:09,424 INFO  [$c {1}] show option is selected 
+2022-12-28 14:45:10,014 INFO  [$c {1}] added to the compare successfully 
+2023-01-02 21:11:41,557 INFO  [$c {1}] url is opened 
+2023-01-02 21:11:42,926 INFO  [$c {1}] username is accepted 
+2023-01-02 21:11:44,296 INFO  [$c {1}] password is accepted 
+2023-01-02 21:11:46,223 INFO  [$c {1}] login button clicked 
+2023-01-02 21:11:46,273 INFO  [$c {1}] titile is matched 
+2023-01-02 21:11:53,878 INFO  [$c {1}] url is opened 
+2023-01-02 21:11:54,323 INFO  [$c {1}] username is accepted 
+2023-01-02 21:11:54,784 INFO  [$c {1}] password is accepted 
+2023-01-02 21:11:55,380 INFO  [$c {1}] login button clicked 
+2023-01-02 21:11:55,405 INFO  [$c {1}] title does not matched 
+2023-01-02 21:11:55,707 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:11:55,814 INFO  [$c {1}] url is opened 
+2023-01-02 21:11:56,082 INFO  [$c {1}] username is accepted 
+2023-01-02 21:11:56,302 INFO  [$c {1}] password is accepted 
+2023-01-02 21:11:56,818 INFO  [$c {1}] login button clicked 
+2023-01-02 21:11:56,859 INFO  [$c {1}] title does not matched 
+2023-01-02 21:11:57,130 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:11:57,213 INFO  [$c {1}] url is opened 
+2023-01-02 21:11:57,455 INFO  [$c {1}] username is accepted 
+2023-01-02 21:11:57,685 INFO  [$c {1}] password is accepted 
+2023-01-02 21:11:58,179 INFO  [$c {1}] login button clicked 
+2023-01-02 21:11:58,196 INFO  [$c {1}] title does not matched 
+2023-01-02 21:11:58,462 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:11:58,542 INFO  [$c {1}] url is opened 
+2023-01-02 21:11:58,766 INFO  [$c {1}] username is accepted 
+2023-01-02 21:11:58,980 INFO  [$c {1}] password is accepted 
+2023-01-02 21:11:59,520 INFO  [$c {1}] login button clicked 
+2023-01-02 21:11:59,546 INFO  [$c {1}] title does not matched 
+2023-01-02 21:11:59,803 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:11:59,856 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:00,118 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:00,381 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:00,884 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:00,911 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:01,163 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:01,207 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:01,425 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:01,655 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:02,145 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:02,200 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:02,566 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:02,632 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:02,927 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:03,195 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:03,702 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:03,736 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:04,003 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:04,048 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:04,312 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:04,556 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:05,063 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:05,090 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:05,419 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:05,499 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:05,733 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:06,062 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:06,923 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:06,950 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:07,339 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:07,407 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:07,879 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:08,310 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:08,975 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:09,061 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:09,433 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:09,484 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:09,788 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:10,047 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:10,745 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:10,772 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:11,064 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:11,117 INFO  [$c {1}] url is opened 
+2023-01-02 21:12:11,395 INFO  [$c {1}] username is accepted 
+2023-01-02 21:12:11,729 INFO  [$c {1}] password is accepted 
+2023-01-02 21:12:12,295 INFO  [$c {1}] login button clicked 
+2023-01-02 21:12:12,328 INFO  [$c {1}] title does not matched 
+2023-01-02 21:12:12,648 INFO  [$c {1}] screenshot is takes 
+2023-01-02 21:12:12,706 INFO  [$c {1}] url is opened 
+2023-01-06 11:43:51,029 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 11:43:53,109 INFO  [$c {1}] desktop button is selected 
+2023-01-06 11:43:55,678 INFO  [$c {1}] pc option is selected 
+2023-01-06 11:43:58,328 INFO  [$c {1}] login button is clicked 
+2023-01-06 11:44:01,781 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:44:03,073 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:44:03,774 INFO  [$c {1}] list view is selected 
+2023-01-06 11:44:05,157 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:44:05,972 INFO  [$c {1}] show option is selected 
+2023-01-06 11:44:06,680 INFO  [$c {1}] added to the card successfully 
+2023-01-06 11:44:09,339 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:44:10,225 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:44:10,828 INFO  [$c {1}] list view is selected 
+2023-01-06 11:44:13,356 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:44:13,981 INFO  [$c {1}] show option is selected 
+2023-01-06 11:44:14,556 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 11:44:15,681 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:44:16,625 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:44:17,319 INFO  [$c {1}] list view is selected 
+2023-01-06 11:44:20,131 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:44:20,909 INFO  [$c {1}] show option is selected 
+2023-01-06 11:44:21,604 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 11:55:57,552 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 11:55:59,639 INFO  [$c {1}] desktop button is selected 
+2023-01-06 11:56:02,359 INFO  [$c {1}] pc option is selected 
+2023-01-06 11:56:05,068 INFO  [$c {1}] login button is clicked 
+2023-01-06 11:56:08,691 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:56:10,108 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:56:10,707 INFO  [$c {1}] list view is selected 
+2023-01-06 11:56:12,178 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:56:13,067 INFO  [$c {1}] show option is selected 
+2023-01-06 11:56:13,776 INFO  [$c {1}] added to the card successfully 
+2023-01-06 11:56:16,447 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:56:17,347 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:56:17,950 INFO  [$c {1}] list view is selected 
+2023-01-06 11:56:20,447 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:56:21,093 INFO  [$c {1}] show option is selected 
+2023-01-06 11:56:21,670 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 11:56:22,809 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:56:23,765 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:56:24,328 INFO  [$c {1}] list view is selected 
+2023-01-06 11:56:27,372 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:56:28,114 INFO  [$c {1}] show option is selected 
+2023-01-06 11:56:28,757 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 11:58:22,134 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 11:58:24,251 INFO  [$c {1}] desktop button is selected 
+2023-01-06 11:58:27,021 INFO  [$c {1}] pc option is selected 
+2023-01-06 11:58:29,726 INFO  [$c {1}] login button is clicked 
+2023-01-06 11:58:33,991 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:58:35,258 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:58:35,907 INFO  [$c {1}] list view is selected 
+2023-01-06 11:58:37,445 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:58:38,371 INFO  [$c {1}] show option is selected 
+2023-01-06 11:58:39,121 INFO  [$c {1}] added to the card successfully 
+2023-01-06 11:58:41,808 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:58:42,775 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:58:43,362 INFO  [$c {1}] list view is selected 
+2023-01-06 11:58:45,958 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:58:46,597 INFO  [$c {1}] show option is selected 
+2023-01-06 11:58:47,174 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 11:58:48,309 INFO  [$c {1}] desktop option is selected 
+2023-01-06 11:58:49,204 INFO  [$c {1}] mac option is selected 
+2023-01-06 11:58:49,852 INFO  [$c {1}] list view is selected 
+2023-01-06 11:58:52,641 INFO  [$c {1}] sort option is selected 
+2023-01-06 11:58:53,455 INFO  [$c {1}] show option is selected 
+2023-01-06 11:58:54,222 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 12:07:27,723 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 12:07:29,813 INFO  [$c {1}] desktop button is selected 
+2023-01-06 12:07:33,054 INFO  [$c {1}] pc option is selected 
+2023-01-06 12:07:35,991 INFO  [$c {1}] login button is clicked 
+2023-01-06 12:07:39,981 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:07:41,719 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:07:42,413 INFO  [$c {1}] list view is selected 
+2023-01-06 12:07:43,814 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:07:44,619 INFO  [$c {1}] show option is selected 
+2023-01-06 12:07:45,304 INFO  [$c {1}] added to the card successfully 
+2023-01-06 12:07:47,944 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:07:48,859 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:07:49,434 INFO  [$c {1}] list view is selected 
+2023-01-06 12:07:51,925 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:07:52,543 INFO  [$c {1}] show option is selected 
+2023-01-06 12:07:53,125 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 12:07:54,289 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:07:55,375 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:07:56,075 INFO  [$c {1}] list view is selected 
+2023-01-06 12:07:58,780 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:07:59,627 INFO  [$c {1}] show option is selected 
+2023-01-06 12:08:00,303 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 12:10:13,122 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 12:10:15,245 INFO  [$c {1}] desktop button is selected 
+2023-01-06 12:10:18,399 INFO  [$c {1}] pc option is selected 
+2023-01-06 12:10:21,099 INFO  [$c {1}] login button is clicked 
+2023-01-06 12:10:24,941 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:10:26,175 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:10:26,905 INFO  [$c {1}] list view is selected 
+2023-01-06 12:10:28,320 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:10:29,228 INFO  [$c {1}] show option is selected 
+2023-01-06 12:10:29,969 INFO  [$c {1}] added to the card successfully 
+2023-01-06 12:10:32,635 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:10:33,517 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:10:34,119 INFO  [$c {1}] list view is selected 
+2023-01-06 12:10:36,590 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:10:37,235 INFO  [$c {1}] show option is selected 
+2023-01-06 12:10:37,849 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 12:10:38,962 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:10:40,020 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:10:40,678 INFO  [$c {1}] list view is selected 
+2023-01-06 12:10:43,585 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:10:44,409 INFO  [$c {1}] show option is selected 
+2023-01-06 12:10:45,001 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 12:29:26,619 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 12:29:28,712 INFO  [$c {1}] desktop button is selected 
+2023-01-06 12:29:31,306 INFO  [$c {1}] pc option is selected 
+2023-01-06 12:29:33,954 INFO  [$c {1}] login button is clicked 
+2023-01-06 12:29:37,591 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:29:39,164 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:29:39,874 INFO  [$c {1}] list view is selected 
+2023-01-06 12:29:41,318 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:29:42,128 INFO  [$c {1}] show option is selected 
+2023-01-06 12:29:42,820 INFO  [$c {1}] added to the card successfully 
+2023-01-06 12:29:45,466 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:29:46,505 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:29:47,075 INFO  [$c {1}] list view is selected 
+2023-01-06 12:29:49,617 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:29:50,367 INFO  [$c {1}] show option is selected 
+2023-01-06 12:29:50,959 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 12:29:52,134 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:29:53,046 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:29:53,744 INFO  [$c {1}] list view is selected 
+2023-01-06 12:29:56,418 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:29:57,208 INFO  [$c {1}] show option is selected 
+2023-01-06 12:29:57,897 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 12:36:14,264 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 12:36:16,356 INFO  [$c {1}] desktop button is selected 
+2023-01-06 12:36:19,023 INFO  [$c {1}] pc option is selected 
+2023-01-06 12:36:21,818 INFO  [$c {1}] login button is clicked 
+2023-01-06 12:36:25,475 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:36:26,795 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:36:27,426 INFO  [$c {1}] list view is selected 
+2023-01-06 12:36:28,933 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:36:29,738 INFO  [$c {1}] show option is selected 
+2023-01-06 12:36:30,414 INFO  [$c {1}] added to the card successfully 
+2023-01-06 12:36:33,118 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:36:34,037 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:36:34,652 INFO  [$c {1}] list view is selected 
+2023-01-06 12:36:37,199 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:36:37,857 INFO  [$c {1}] show option is selected 
+2023-01-06 12:36:38,423 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 12:36:39,594 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:36:40,546 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:36:41,213 INFO  [$c {1}] list view is selected 
+2023-01-06 12:36:44,088 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:36:45,046 INFO  [$c {1}] show option is selected 
+2023-01-06 12:36:45,648 INFO  [$c {1}] added to the compare successfully 
+2023-01-06 12:43:48,025 INFO  [$c {1}] Url for pc is opened 
+2023-01-06 12:43:50,109 INFO  [$c {1}] desktop button is selected 
+2023-01-06 12:43:52,847 INFO  [$c {1}] pc option is selected 
+2023-01-06 12:43:55,568 INFO  [$c {1}] login button is clicked 
+2023-01-06 12:43:58,614 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:43:59,239 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:43:59,342 INFO  [$c {1}] list view is selected 
+2023-01-06 12:44:00,007 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:44:00,167 INFO  [$c {1}] show option is selected 
+2023-01-06 12:44:00,269 INFO  [$c {1}] added to the card successfully 
+2023-01-06 12:44:00,737 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:44:01,393 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:44:01,480 INFO  [$c {1}] list view is selected 
+2023-01-06 12:44:02,097 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:44:02,276 INFO  [$c {1}] show option is selected 
+2023-01-06 12:44:02,379 INFO  [$c {1}] added to the favorite successfully 
+2023-01-06 12:44:02,895 INFO  [$c {1}] desktop option is selected 
+2023-01-06 12:44:03,663 INFO  [$c {1}] mac option is selected 
+2023-01-06 12:44:03,775 INFO  [$c {1}] list view is selected 
+2023-01-06 12:44:04,462 INFO  [$c {1}] sort option is selected 
+2023-01-06 12:44:04,635 INFO  [$c {1}] show option is selected 
+2023-01-06 12:44:04,740 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 12:35:03,104 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 12:35:05,208 INFO  [$c {1}] desktop button is selected 
+2023-01-07 12:35:08,038 INFO  [$c {1}] pc option is selected 
+2023-01-07 12:35:12,664 INFO  [$c {1}] login button is clicked 
+2023-01-07 12:37:07,879 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 12:37:10,002 INFO  [$c {1}] desktop button is selected 
+2023-01-07 12:37:12,767 INFO  [$c {1}] pc option is selected 
+2023-01-07 12:37:16,677 INFO  [$c {1}] login button is clicked 
+2023-01-07 12:43:24,141 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:43:25,025 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:43:25,123 INFO  [$c {1}] list view is selected 
+2023-01-07 12:43:25,901 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:43:26,085 INFO  [$c {1}] show option is selected 
+2023-01-07 12:43:26,187 INFO  [$c {1}] added to the card successfully 
+2023-01-07 12:43:26,659 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:43:27,324 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:43:27,420 INFO  [$c {1}] list view is selected 
+2023-01-07 12:43:28,035 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:43:28,274 INFO  [$c {1}] show option is selected 
+2023-01-07 12:43:28,399 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 12:43:28,838 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:43:29,642 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:43:29,790 INFO  [$c {1}] list view is selected 
+2023-01-07 12:43:30,489 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:43:30,668 INFO  [$c {1}] show option is selected 
+2023-01-07 12:43:30,777 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 12:43:37,285 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 12:43:39,396 INFO  [$c {1}] desktop button is selected 
+2023-01-07 12:43:43,522 INFO  [$c {1}] pc option is selected 
+2023-01-07 12:43:46,481 INFO  [$c {1}] login button is clicked 
+2023-01-07 12:56:50,015 INFO  [$c {1}] url for mac is opened 
+2023-01-07 12:56:50,142 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:56:50,954 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:56:51,043 INFO  [$c {1}] list view is selected 
+2023-01-07 12:56:51,805 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:56:52,061 INFO  [$c {1}] show option is selected 
+2023-01-07 12:56:52,239 INFO  [$c {1}] added to the card successfully 
+2023-01-07 12:56:52,637 INFO  [$c {1}] url for mac is opened 
+2023-01-07 12:56:52,736 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:56:53,277 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:56:53,382 INFO  [$c {1}] list view is selected 
+2023-01-07 12:56:53,953 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:56:54,143 INFO  [$c {1}] show option is selected 
+2023-01-07 12:56:54,250 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 12:56:54,501 INFO  [$c {1}] url for mac is opened 
+2023-01-07 12:56:54,676 INFO  [$c {1}] desktop option is selected 
+2023-01-07 12:56:55,342 INFO  [$c {1}] mac option is selected 
+2023-01-07 12:56:55,541 INFO  [$c {1}] list view is selected 
+2023-01-07 12:56:56,413 INFO  [$c {1}] sort option is selected 
+2023-01-07 12:56:56,595 INFO  [$c {1}] show option is selected 
+2023-01-07 12:56:56,703 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 12:57:00,940 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 12:57:01,084 INFO  [$c {1}] desktop button is selected 
+2023-01-07 12:57:01,667 INFO  [$c {1}] pc option is selected 
+2023-01-07 12:57:03,657 INFO  [$c {1}] login button is clicked 
+2023-01-07 13:00:34,844 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:00:34,983 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:00:35,781 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:00:35,892 INFO  [$c {1}] list view is selected 
+2023-01-07 13:00:36,607 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:00:36,838 INFO  [$c {1}] show option is selected 
+2023-01-07 13:00:36,998 INFO  [$c {1}] added to the card successfully 
+2023-01-07 13:00:38,195 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:00:38,263 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:00:38,842 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:00:39,041 INFO  [$c {1}] list view is selected 
+2023-01-07 13:00:39,818 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:00:40,028 INFO  [$c {1}] show option is selected 
+2023-01-07 13:00:40,131 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 13:00:40,554 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:00:40,673 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:00:41,157 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:00:41,269 INFO  [$c {1}] list view is selected 
+2023-01-07 13:00:41,903 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:00:42,096 INFO  [$c {1}] show option is selected 
+2023-01-07 13:00:42,197 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 13:00:45,791 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 13:00:45,934 INFO  [$c {1}] desktop button is selected 
+2023-01-07 13:00:46,628 INFO  [$c {1}] pc option is selected 
+2023-01-07 13:00:47,680 INFO  [$c {1}] login button is clicked 
+2023-01-07 13:49:33,735 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:49:33,881 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:49:34,938 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:49:35,034 INFO  [$c {1}] list view is selected 
+2023-01-07 13:49:35,676 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:49:35,871 INFO  [$c {1}] show option is selected 
+2023-01-07 13:49:36,001 INFO  [$c {1}] added to the card successfully 
+2023-01-07 13:49:37,105 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:49:37,178 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:49:37,705 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:49:37,820 INFO  [$c {1}] list view is selected 
+2023-01-07 13:49:40,905 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:49:41,335 INFO  [$c {1}] show option is selected 
+2023-01-07 13:49:41,552 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 13:49:42,089 INFO  [$c {1}] url for mac is opened 
+2023-01-07 13:49:42,208 INFO  [$c {1}] desktop option is selected 
+2023-01-07 13:49:42,887 INFO  [$c {1}] mac option is selected 
+2023-01-07 13:49:43,005 INFO  [$c {1}] list view is selected 
+2023-01-07 13:49:43,760 INFO  [$c {1}] sort option is selected 
+2023-01-07 13:49:43,946 INFO  [$c {1}] show option is selected 
+2023-01-07 13:49:44,061 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 13:49:48,212 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 13:49:48,353 INFO  [$c {1}] desktop button is selected 
+2023-01-07 13:49:49,254 INFO  [$c {1}] pc option is selected 
+2023-01-07 13:49:50,853 INFO  [$c {1}] login button is clicked 
+2023-01-07 14:05:25,423 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:05:25,586 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:05:26,130 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:05:26,259 INFO  [$c {1}] list view is selected 
+2023-01-07 14:05:26,807 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:05:27,015 INFO  [$c {1}] show option is selected 
+2023-01-07 14:05:27,167 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:05:28,339 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:05:28,423 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:05:29,035 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:05:29,136 INFO  [$c {1}] list view is selected 
+2023-01-07 14:05:29,776 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:05:30,011 INFO  [$c {1}] show option is selected 
+2023-01-07 14:05:30,107 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 14:05:30,549 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:05:30,655 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:05:31,272 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:05:31,428 INFO  [$c {1}] list view is selected 
+2023-01-07 14:05:32,067 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:05:32,243 INFO  [$c {1}] show option is selected 
+2023-01-07 14:05:32,347 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 14:05:36,844 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 14:05:36,985 INFO  [$c {1}] desktop button is selected 
+2023-01-07 14:05:37,395 INFO  [$c {1}] pc option is selected 
+2023-01-07 14:05:38,137 INFO  [$c {1}] login button is clicked 
+2023-01-07 14:08:36,841 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:08:36,958 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:08:37,441 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:08:37,544 INFO  [$c {1}] list view is selected 
+2023-01-07 14:08:38,446 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:08:38,642 INFO  [$c {1}] show option is selected 
+2023-01-07 14:08:38,750 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:11:38,508 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:11:38,606 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:11:39,131 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:11:39,245 INFO  [$c {1}] list view is selected 
+2023-01-07 14:11:40,054 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:11:40,256 INFO  [$c {1}] show option is selected 
+2023-01-07 14:11:40,352 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:12:30,885 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:12:31,104 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:12:31,834 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:12:31,931 INFO  [$c {1}] list view is selected 
+2023-01-07 14:12:32,413 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:12:32,619 INFO  [$c {1}] show option is selected 
+2023-01-07 14:12:32,742 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:14:30,158 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:14:30,272 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:14:30,912 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:14:31,006 INFO  [$c {1}] list view is selected 
+2023-01-07 14:14:31,588 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:14:31,786 INFO  [$c {1}] show option is selected 
+2023-01-07 14:14:31,889 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:21:03,199 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:21:03,328 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:21:04,136 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:21:04,221 INFO  [$c {1}] list view is selected 
+2023-01-07 14:21:04,884 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:21:05,083 INFO  [$c {1}] show option is selected 
+2023-01-07 14:21:05,183 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:23:22,352 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:23:22,479 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:23:23,387 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:23:23,476 INFO  [$c {1}] list view is selected 
+2023-01-07 14:23:24,193 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:23:24,385 INFO  [$c {1}] show option is selected 
+2023-01-07 14:23:24,507 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:23:25,695 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:23:25,774 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:23:26,388 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:23:26,597 INFO  [$c {1}] list view is selected 
+2023-01-07 14:23:27,446 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:23:27,629 INFO  [$c {1}] show option is selected 
+2023-01-07 14:23:27,745 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 14:23:28,238 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:23:28,344 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:23:28,996 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:23:29,106 INFO  [$c {1}] list view is selected 
+2023-01-07 14:23:30,396 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:23:30,591 INFO  [$c {1}] show option is selected 
+2023-01-07 14:23:30,694 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 14:23:34,710 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 14:23:34,849 INFO  [$c {1}] desktop button is selected 
+2023-01-07 14:23:35,390 INFO  [$c {1}] pc option is selected 
+2023-01-07 14:23:36,390 INFO  [$c {1}] login button is clicked 
+2023-01-07 14:31:34,547 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:31:34,658 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:31:35,144 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:31:35,311 INFO  [$c {1}] list view is selected 
+2023-01-07 14:31:36,054 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:31:36,245 INFO  [$c {1}] show option is selected 
+2023-01-07 14:31:36,344 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:31:37,354 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:31:37,444 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:31:38,134 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:31:38,238 INFO  [$c {1}] list view is selected 
+2023-01-07 14:31:38,921 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:31:39,113 INFO  [$c {1}] show option is selected 
+2023-01-07 14:31:39,218 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 14:31:39,742 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:31:39,886 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:31:40,572 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:31:40,709 INFO  [$c {1}] list view is selected 
+2023-01-07 14:31:41,370 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:31:41,548 INFO  [$c {1}] show option is selected 
+2023-01-07 14:31:41,657 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 14:31:45,804 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 14:31:45,928 INFO  [$c {1}] desktop button is selected 
+2023-01-07 14:31:46,386 INFO  [$c {1}] pc option is selected 
+2023-01-07 14:31:47,033 INFO  [$c {1}] login button is clicked 
+2023-01-07 14:33:34,727 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:33:34,842 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:33:35,486 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:33:35,626 INFO  [$c {1}] list view is selected 
+2023-01-07 14:33:36,333 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:33:36,514 INFO  [$c {1}] show option is selected 
+2023-01-07 14:33:36,617 INFO  [$c {1}] added to the card successfully 
+2023-01-07 14:33:37,778 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:33:37,862 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:33:38,532 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:33:38,636 INFO  [$c {1}] list view is selected 
+2023-01-07 14:33:39,407 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:33:39,589 INFO  [$c {1}] show option is selected 
+2023-01-07 14:33:39,696 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 14:33:40,190 INFO  [$c {1}] url for mac is opened 
+2023-01-07 14:33:40,288 INFO  [$c {1}] desktop option is selected 
+2023-01-07 14:33:40,991 INFO  [$c {1}] mac option is selected 
+2023-01-07 14:33:41,088 INFO  [$c {1}] list view is selected 
+2023-01-07 14:33:41,717 INFO  [$c {1}] sort option is selected 
+2023-01-07 14:33:41,892 INFO  [$c {1}] show option is selected 
+2023-01-07 14:33:41,995 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 14:33:46,120 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 14:33:46,251 INFO  [$c {1}] desktop button is selected 
+2023-01-07 14:33:46,737 INFO  [$c {1}] pc option is selected 
+2023-01-07 14:33:47,392 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:12:19,167 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:12:19,293 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:12:20,697 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:12:20,920 INFO  [$c {1}] list view is selected 
+2023-01-07 20:12:21,722 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:12:22,570 INFO  [$c {1}]  
+2023-01-07 20:12:26,424 INFO  [$c {1}] show option is selected 
+2023-01-07 20:12:26,569 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:12:26,708 INFO  [$c {1}] check box is selected 
+2023-01-07 20:12:26,894 INFO  [$c {1}] text is entered 
+2023-01-07 20:12:27,356 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:12:27,588 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:16:05,047 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:16:05,167 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:16:07,512 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:16:07,759 INFO  [$c {1}] list view is selected 
+2023-01-07 20:16:08,803 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:16:10,251 INFO  [$c {1}] show option is selected 
+2023-01-07 20:16:20,241 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:16:20,353 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:16:20,479 INFO  [$c {1}] check box is selected 
+2023-01-07 20:16:20,683 INFO  [$c {1}] text is entered 
+2023-01-07 20:16:20,995 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:16:21,157 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:20:58,885 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:20:59,006 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:21:00,654 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:21:00,876 INFO  [$c {1}] list view is selected 
+2023-01-07 20:21:02,158 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:21:03,035 INFO  [$c {1}] show option is selected 
+2023-01-07 20:21:07,233 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:21:07,366 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:21:07,486 INFO  [$c {1}] check box is selected 
+2023-01-07 20:21:07,639 INFO  [$c {1}] text is entered 
+2023-01-07 20:21:07,939 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:21:08,161 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:22:22,463 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:22:22,577 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:22:25,948 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:22:26,052 INFO  [$c {1}] list view is selected 
+2023-01-07 20:22:27,395 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:22:28,044 INFO  [$c {1}] show option is selected 
+2023-01-07 20:22:31,710 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:22:31,830 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:22:31,958 INFO  [$c {1}] check box is selected 
+2023-01-07 20:22:32,507 INFO  [$c {1}] text is entered 
+2023-01-07 20:22:32,806 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:22:32,938 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:26:10,399 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:26:10,518 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:26:14,273 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:26:14,530 INFO  [$c {1}] list view is selected 
+2023-01-07 20:26:15,871 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:26:17,391 INFO  [$c {1}] show option is selected 
+2023-01-07 20:26:23,313 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:26:23,437 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:26:23,555 INFO  [$c {1}] check box is selected 
+2023-01-07 20:26:23,719 INFO  [$c {1}] text is entered 
+2023-01-07 20:26:24,284 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:26:24,467 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:31:24,704 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:31:24,887 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:31:28,570 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:31:28,825 INFO  [$c {1}] list view is selected 
+2023-01-07 20:31:30,386 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:31:31,520 INFO  [$c {1}] show option is selected 
+2023-01-07 20:31:37,979 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:31:38,143 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:31:38,270 INFO  [$c {1}] check box is selected 
+2023-01-07 20:31:38,614 INFO  [$c {1}] text is entered 
+2023-01-07 20:31:39,029 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:31:39,200 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:31:46,659 INFO  [$c {1}] file is uploaded 
+2023-01-07 20:31:46,824 INFO  [$c {1}] desktop quantity is entered 
+2023-01-07 20:31:46,957 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:34:25,280 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:34:25,402 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:34:28,025 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:34:28,132 INFO  [$c {1}] list view is selected 
+2023-01-07 20:34:28,853 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:34:29,924 INFO  [$c {1}] show option is selected 
+2023-01-07 20:34:34,852 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:34:34,962 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:34:35,095 INFO  [$c {1}] check box is selected 
+2023-01-07 20:34:35,254 INFO  [$c {1}] text is entered 
+2023-01-07 20:34:35,601 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:34:35,760 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:34:43,323 INFO  [$c {1}] file is uploaded 
+2023-01-07 20:34:43,591 INFO  [$c {1}] desktop quantity is entered 
+2023-01-07 20:34:43,765 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:38:14,812 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:16,168 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:17,331 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:19,842 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:19,857 INFO  [$c {1}] titile is matched 
+2023-01-07 20:38:26,410 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:26,713 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:27,001 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:27,576 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:27,596 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:27,898 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:27,993 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:28,196 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:28,383 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:29,081 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:29,098 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:29,439 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:29,503 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:29,682 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:29,861 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:30,446 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:30,461 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:30,767 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:30,810 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:30,988 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:31,171 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:31,626 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:31,652 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:31,952 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:32,000 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:32,208 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:32,389 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:32,771 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:32,785 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:33,121 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:33,162 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:33,343 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:33,670 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:34,052 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:34,066 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:34,362 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:34,403 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:34,613 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:34,820 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:35,686 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:35,712 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:36,017 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:36,062 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:36,271 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:36,497 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:36,943 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:36,954 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:37,270 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:37,323 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:37,501 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:37,699 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:38,108 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:38,117 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:38,434 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:38,477 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:38,673 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:38,927 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:39,991 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:40,016 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:40,332 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:40,384 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:40,642 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:40,936 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:41,546 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:41,574 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:41,914 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:41,953 INFO  [$c {1}] url is opened 
+2023-01-07 20:38:42,197 INFO  [$c {1}] username is accepted 
+2023-01-07 20:38:42,447 INFO  [$c {1}] password is accepted 
+2023-01-07 20:38:42,906 INFO  [$c {1}] login button clicked 
+2023-01-07 20:38:42,928 INFO  [$c {1}] title does not matched 
+2023-01-07 20:38:43,583 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:38:43,693 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:16,058 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:17,521 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:19,078 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:20,636 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:20,660 INFO  [$c {1}] titile is matched 
+2023-01-07 20:40:29,920 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:30,181 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:30,386 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:30,855 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:30,873 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:31,232 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:31,334 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:31,589 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:31,785 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:32,163 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:32,176 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:32,545 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:32,619 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:32,820 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:32,999 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:33,424 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:33,453 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:33,718 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:33,759 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:33,951 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:34,142 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:34,552 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:34,570 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:34,991 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:35,073 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:35,247 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:35,440 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:35,805 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:35,815 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:36,211 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:36,250 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:36,445 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:36,621 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:36,994 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:37,013 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:37,270 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:37,305 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:37,496 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:37,749 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:38,279 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:38,303 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:38,650 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:38,694 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:38,882 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:39,103 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:39,585 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:39,601 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:39,941 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:39,979 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:40,155 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:40,360 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:40,782 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:40,789 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:41,054 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:41,089 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:41,301 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:41,564 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:42,084 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:42,114 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:42,392 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:42,436 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:42,727 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:42,998 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:43,416 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:43,435 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:43,706 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:43,755 INFO  [$c {1}] url is opened 
+2023-01-07 20:40:43,997 INFO  [$c {1}] username is accepted 
+2023-01-07 20:40:44,299 INFO  [$c {1}] password is accepted 
+2023-01-07 20:40:44,730 INFO  [$c {1}] login button clicked 
+2023-01-07 20:40:44,742 INFO  [$c {1}] title does not matched 
+2023-01-07 20:40:45,135 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:40:45,236 INFO  [$c {1}] url is opened 
+2023-01-07 20:42:14,499 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:42:14,601 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:43:09,617 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:43:32,273 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:43:32,410 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:43:34,489 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:43:34,770 INFO  [$c {1}] list view is selected 
+2023-01-07 20:43:35,715 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:43:36,392 INFO  [$c {1}] show option is selected 
+2023-01-07 20:43:42,879 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:43:43,042 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:43:43,176 INFO  [$c {1}] check box is selected 
+2023-01-07 20:43:43,378 INFO  [$c {1}] text is entered 
+2023-01-07 20:43:43,753 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:43:43,922 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:43:51,226 INFO  [$c {1}] file is uploaded 
+2023-01-07 20:43:51,373 INFO  [$c {1}] desktop quantity is entered 
+2023-01-07 20:43:51,511 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:43:55,583 INFO  [$c {1}] url is opened 
+2023-01-07 20:43:57,101 INFO  [$c {1}] username is accepted 
+2023-01-07 20:43:58,519 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:00,372 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:00,394 INFO  [$c {1}] titile is matched 
+2023-01-07 20:44:07,372 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:07,733 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:07,953 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:08,476 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:08,506 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:08,951 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:09,030 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:09,229 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:09,425 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:09,912 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:09,925 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:10,260 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:10,331 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:10,567 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:10,752 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:11,260 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:11,279 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:11,626 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:11,673 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:11,852 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:12,033 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:12,484 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:12,497 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:12,766 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:12,807 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:12,981 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:13,181 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:14,004 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:14,013 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:14,286 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:14,322 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:14,513 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:14,697 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:15,079 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:15,094 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:15,397 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:15,435 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:15,704 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:15,993 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:16,672 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:16,680 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:16,995 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:17,046 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:17,253 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:17,467 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:17,911 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:17,931 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:18,339 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:18,391 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:18,572 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:18,803 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:19,242 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:19,265 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:19,573 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:19,618 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:19,796 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:19,979 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:20,378 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:20,386 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:20,671 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:20,711 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:20,894 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:21,086 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:21,474 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:21,485 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:21,762 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:21,824 INFO  [$c {1}] url is opened 
+2023-01-07 20:44:22,083 INFO  [$c {1}] username is accepted 
+2023-01-07 20:44:22,359 INFO  [$c {1}] password is accepted 
+2023-01-07 20:44:22,888 INFO  [$c {1}] login button clicked 
+2023-01-07 20:44:22,923 INFO  [$c {1}] title does not matched 
+2023-01-07 20:44:23,238 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:44:23,293 INFO  [$c {1}] url is opened 
+2023-01-07 20:46:03,206 INFO  [$c {1}] Browser is open for allDesktopSelection 
+2023-01-07 20:46:03,338 INFO  [$c {1}] Desktop button is clicked 
+2023-01-07 20:46:04,655 INFO  [$c {1}] All Desktop is selected 
+2023-01-07 20:46:04,759 INFO  [$c {1}] list view is selected 
+2023-01-07 20:46:05,815 INFO  [$c {1}] sort by option is selected 
+2023-01-07 20:46:06,951 INFO  [$c {1}] show option is selected 
+2023-01-07 20:46:10,994 INFO  [$c {1}] Apple pc is selected 
+2023-01-07 20:46:11,128 INFO  [$c {1}] radio button is selected 
+2023-01-07 20:46:11,263 INFO  [$c {1}] check box is selected 
+2023-01-07 20:46:11,439 INFO  [$c {1}] text is entered 
+2023-01-07 20:46:11,747 INFO  [$c {1}] desktop color is selected 
+2023-01-07 20:46:11,918 INFO  [$c {1}] user tex is entered 
+2023-01-07 20:46:19,244 INFO  [$c {1}] file is uploaded 
+2023-01-07 20:46:19,411 INFO  [$c {1}] desktop quantity is entered 
+2023-01-07 20:46:19,586 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:46:24,705 INFO  [$c {1}] url for mac is opened 
+2023-01-07 20:46:24,834 INFO  [$c {1}] desktop option is selected 
+2023-01-07 20:46:26,708 INFO  [$c {1}] mac option is selected 
+2023-01-07 20:46:26,809 INFO  [$c {1}] list view is selected 
+2023-01-07 20:46:27,621 INFO  [$c {1}] sort option is selected 
+2023-01-07 20:46:27,802 INFO  [$c {1}] show option is selected 
+2023-01-07 20:46:27,904 INFO  [$c {1}] added to the card successfully 
+2023-01-07 20:46:28,446 INFO  [$c {1}] url for mac is opened 
+2023-01-07 20:46:28,571 INFO  [$c {1}] desktop option is selected 
+2023-01-07 20:46:29,368 INFO  [$c {1}] mac option is selected 
+2023-01-07 20:46:29,491 INFO  [$c {1}] list view is selected 
+2023-01-07 20:46:30,717 INFO  [$c {1}] sort option is selected 
+2023-01-07 20:46:30,878 INFO  [$c {1}] show option is selected 
+2023-01-07 20:46:30,972 INFO  [$c {1}] added to the favorite successfully 
+2023-01-07 20:46:31,429 INFO  [$c {1}] url for mac is opened 
+2023-01-07 20:46:31,555 INFO  [$c {1}] desktop option is selected 
+2023-01-07 20:46:32,517 INFO  [$c {1}] mac option is selected 
+2023-01-07 20:46:32,620 INFO  [$c {1}] list view is selected 
+2023-01-07 20:46:33,601 INFO  [$c {1}] sort option is selected 
+2023-01-07 20:46:33,867 INFO  [$c {1}] show option is selected 
+2023-01-07 20:46:34,030 INFO  [$c {1}] added to the compare successfully 
+2023-01-07 20:46:40,733 INFO  [$c {1}] Url for pc is opened 
+2023-01-07 20:46:40,873 INFO  [$c {1}] desktop button is selected 
+2023-01-07 20:46:44,009 INFO  [$c {1}] pc option is selected 
+2023-01-07 20:46:47,936 INFO  [$c {1}] login button is clicked 
+2023-01-07 20:46:52,491 INFO  [$c {1}] url is opened 
+2023-01-07 20:46:53,802 INFO  [$c {1}] username is accepted 
+2023-01-07 20:46:54,973 INFO  [$c {1}] password is accepted 
+2023-01-07 20:46:56,581 INFO  [$c {1}] login button clicked 
+2023-01-07 20:46:56,604 INFO  [$c {1}] titile is matched 
+2023-01-07 20:47:06,372 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:06,744 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:06,967 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:07,412 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:07,445 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:07,835 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:07,893 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:08,108 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:08,299 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:08,826 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:08,848 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:09,247 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:09,296 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:09,472 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:09,642 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:10,052 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:10,073 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:10,452 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:10,512 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:10,733 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:11,006 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:11,641 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:11,672 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:12,145 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:12,205 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:12,395 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:12,577 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:13,039 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:13,072 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:13,370 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:13,424 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:13,627 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:13,810 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:14,283 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:14,293 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:14,598 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:14,636 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:14,825 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:15,019 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:15,580 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:15,610 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:15,943 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:15,990 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:16,325 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:16,591 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:17,046 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:17,070 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:17,446 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:17,494 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:17,741 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:18,012 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:18,447 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:18,463 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:18,765 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:18,801 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:19,023 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:19,346 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:20,537 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:20,551 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:20,855 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:20,909 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:21,147 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:21,425 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:21,981 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:22,008 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:22,309 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:22,359 INFO  [$c {1}] url is opened 
+2023-01-07 20:47:22,627 INFO  [$c {1}] username is accepted 
+2023-01-07 20:47:22,870 INFO  [$c {1}] password is accepted 
+2023-01-07 20:47:23,296 INFO  [$c {1}] login button clicked 
+2023-01-07 20:47:23,309 INFO  [$c {1}] title does not matched 
+2023-01-07 20:47:23,708 INFO  [$c {1}] screenshot is takes 
+2023-01-07 20:47:23,767 INFO  [$c {1}] url is opened 
+2023-01-07 22:10:41,026 INFO  [$c {1}] mac url is opened 
+2023-01-07 22:10:41,144 INFO  [$c {1}] laptopNotebook is clicked 
+2023-01-07 22:10:45,041 INFO  [$c {1}] mac option is clicked 
+2023-01-07 22:10:51,706 INFO  [$c {1}] continue button is clicked 
+2023-01-07 22:10:51,731 INFO  [$c {1}] mac url is opened 
+2023-01-07 22:10:51,818 INFO  [$c {1}] laptopNotebook is clicked 
+2023-01-07 22:10:54,398 INFO  [$c {1}] mac option is clicked 
+2023-01-07 22:10:55,219 INFO  [$c {1}] continue button is clicked 
+2023-01-07 22:13:22,074 INFO  [$c {1}] mac url is opened 
+2023-01-07 22:13:22,232 INFO  [$c {1}] laptopNotebook is clicked 
+2023-01-07 22:13:25,592 INFO  [$c {1}] mac option is clicked 
+2023-01-07 22:13:38,216 INFO  [$c {1}] continue button is clicked 
+2023-01-07 22:13:39,188 INFO  [$c {1}] mac url is opened 
+2023-01-07 22:13:39,342 INFO  [$c {1}] laptopNotebook is clicked 
+2023-01-07 22:13:42,553 INFO  [$c {1}] mac option is clicked 
+2023-01-07 22:13:43,446 INFO  [$c {1}] continue button is clicked 
